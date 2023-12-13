@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Helloworld/bin/Debug/net7.0/Helloworld
+/Users/macos/Desktop/Operator/Helloworld/bin/Debug/net7.0/Helloworld.deps.json
+/Users/macos/Desktop/Operator/Helloworld/bin/Debug/net7.0/Helloworld.runtimeconfig.json
+/Users/macos/Desktop/Operator/Helloworld/bin/Debug/net7.0/Helloworld.dll
+/Users/macos/Desktop/Operator/Helloworld/bin/Debug/net7.0/Helloworld.pdb
+/Users/macos/Desktop/Operator/Helloworld/obj/Debug/net7.0/Helloworld.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Helloworld/obj/Debug/net7.0/Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Helloworld/obj/Debug/net7.0/Helloworld.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Helloworld/obj/Debug/net7.0/Helloworld.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Helloworld/obj/Debug/net7.0/Helloworld.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Helloworld/obj/Debug/net7.0/Helloworld.dll
+/Users/macos/Desktop/Operator/Helloworld/obj/Debug/net7.0/refint/Helloworld.dll
+/Users/macos/Desktop/Operator/Helloworld/obj/Debug/net7.0/Helloworld.pdb
+/Users/macos/Desktop/Operator/Helloworld/obj/Debug/net7.0/Helloworld.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Helloworld/obj/Debug/net7.0/ref/Helloworld.dll
